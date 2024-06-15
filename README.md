@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 😊 I'm Siva Kumar Katari, a React UI Developer from PRAGATI Kakinada,India.
-- 🏫 Currently I'm an ongoing bachelor's student in the field of computer science.
-- 💌 I'm interested in Cloud Computing & Web Development.
-- 💼 A part from my college, I'm a freelancer & I'm working for a company as a part-time developer.
+- 😊 I'm Siva Kumar Katari, working as a Data Analyst at Tata Consultancy Services.
+- 💌 I'm interested in Cloud Computing & Data Analytics.
+- 💼 A part from my work, I'm a tech entusiast and love to bring change with that.
 - 💙 I love to read books, meet new people & working collab with other developers.
 
 
